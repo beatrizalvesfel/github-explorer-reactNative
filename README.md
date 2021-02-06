@@ -1,1 +1,0 @@
-# gostack-modulo06
