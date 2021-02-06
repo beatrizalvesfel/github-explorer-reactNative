@@ -25,10 +25,5 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
-    'class-methods-use-this': 'off',
-    'no-param-reassign': 'off',
-    camelcase: 'off',
-    'no-unused-vars': ['error', { argsIgnorePattern: 'next' }],
-    'no-state-in-constructor': 'never',
   },
 };
